@@ -6,7 +6,7 @@ Author: Dhanusha Madasu
 
 Problem: 6.6. Iterative tree search with linked-list based stack
 
-Issues: No Issues
+Issues: No errors and No Output
 
 OS: Windows
 
