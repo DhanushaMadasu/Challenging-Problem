@@ -11,12 +11,3 @@ Issues: No errors
 OS: Windows
 
 Done by: Dhanusha Madasu (ID# 1516483) and Abhinav Paripati (ID# 1537837)
-
-Output:
-Best tour: 0 3 1 2 4 0 
-
-Cost = 20
-Elapsed time = 1.114079e-03 seconds
-
-Process finished with exit code 0
-
